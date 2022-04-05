@@ -14,3 +14,17 @@ For this lab we use data from a 10K road race that took place in Hillsboro, OR o
 - What was the average finish time for the runners?
 - Did the runners' finish times follow a normal distribution?
 - Were there any performance differences between males and females of various age groups?
+
+## Outputs:
+
+### Boxplot using the Runner mins column
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/36131683/161690610-942cd1b9-24b4-4d72-849f-0708a41958ee.png">
+
+### Histogram plot using the Runner mins column
+<img width="255" alt="image" src="https://user-images.githubusercontent.com/36131683/161690626-86e6995d-f246-4d6f-84a5-d21baa754d9a.png">
+
+### Comparison plot between the two Genders (Male and Female)
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/36131683/161690668-fbb38644-244b-4eca-b778-e946731c0f10.png">
+
+### Separate statistics (min, max, mode) for each gender.
+<img width="406" alt="image" src="https://user-images.githubusercontent.com/36131683/161690690-62fbc4a9-01c8-4fec-8dc6-e9ba5dee2ecf.png">
